@@ -5,7 +5,9 @@ w11: File 1 created.
 change:- by team mate of cr1
 change- for bug2 to check 3 way merging with conflict.
 change-done by teamamte for conflict
-change:;; change to check for conflict
 change is done by team mate which reflect on master branch
+change: change to check for conflict..
+chaange is done in branch for rebase
+
 
 
