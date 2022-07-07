@@ -1,8 +1,10 @@
 welcome
 
-w11: file 1 created.
+w11: File 1 created.
 
 change:- by team mate of cr1
 change- for bug2 to check 3 way merging with conflict.
 change-done by teamamte for conflict
+change: change to check for conflict
+
 
