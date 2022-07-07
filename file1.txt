@@ -1,4 +1,4 @@
-welcome
+ welcome
 
 w11: File 1 created.
 
@@ -7,7 +7,7 @@ change- for bug2 to check 3 way merging with conflict.
 change-done by teamamte for conflict
 change is done by team mate which reflect on master branch
 change: change to check for conflict..
-chaange is done in branch for rebase
+chaange is done in branch for r  hds  hsebase 
 
 
 
